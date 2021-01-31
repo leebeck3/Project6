@@ -1,9 +1,9 @@
 /**
  * @file main.cpp
- * @brief This is a test of CMake, doxygen, and GitHub.
- * @details This is the long brief at the top of main.cpp.
- * @author Seth McNeill
- * @date 1/28/2021
+ * @brief This is testing if make docs and make pdf will work.
+ * @details N/A.
+ * @author Lee Beckermeyer
+ * @date 1/31/2021
  * 
  */
 
